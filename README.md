@@ -32,7 +32,8 @@
 *Команда `sudo ls /root` выполнена без запроса пароля*
 
 ### Скриншот 2: Вход по SSH-ключу
-![ssh key login](2_ssh_key_login.png)
+![ssh key login](2_ssh_key_login.png)<img width="877" height="245" alt="1_sudo_nopasswd" src="https://github.com/user-attachments/assets/71d18e2e-b452-4f61-9eac-35810b66ed5e" />
+
 *Подключение через `ssh admin@127.0.0.1 -p 2222 -i admin_key` без пароля*
 
 ### Скриншот 3: Подключение через VS Code Remote-SSH
