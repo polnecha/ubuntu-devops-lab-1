@@ -28,7 +28,8 @@
 ## Демонстрация результатов
 
 ### Скриншот 1: Проверка пользователя и sudo без пароля
-![sudo nopasswd](1_sudo_nopasswd.png)
+<img width="877" height="245" alt="1_sudo_nopasswd" src="https://github.com/user-attachments/assets/b50b8102-f320-473e-a35f-1c5d3320bca8" />
+
 *Команда `sudo ls /root` выполнена без запроса пароля*
 
 ### Скриншот 2: Вход по SSH-ключу
