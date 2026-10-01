@@ -33,12 +33,14 @@
 *Команда `sudo ls /root` выполнена без запроса пароля*
 
 ### Скриншот 2: Вход по SSH-ключу
-![ssh key login](2_ssh_key_login.png)<img width="877" height="245" alt="1_sudo_nopasswd" src="https://github.com/user-attachments/assets/71d18e2e-b452-4f61-9eac-35810b66ed5e" />
+<img width="941" height="765" alt="2_ssh_key_login" src="https://github.com/user-attachments/assets/bac23f36-f6df-4ed3-a598-9a5bbe3209fb" />
+
 
 *Подключение через `ssh admin@127.0.0.1 -p 2222 -i admin_key` без пароля*
 
 ### Скриншот 3: Подключение через VS Code Remote-SSH
-![vscode ssh](3_vscode_ssh.png)
+<img width="805" height="809" alt="3_vscode_ssh" src="https://github.com/user-attachments/assets/4b5ba224-b6ef-4117-a123-9a763c22177a" />
+
 *Зелёный индикатор "SSH: ubuntu-admin" в левом нижнем углу*
 
 ## Конфигурация SSH (хост-машина Windows)
